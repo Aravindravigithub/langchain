@@ -1,0 +1,15 @@
+# Ignore the virtual environment
+venv/
+.venv/
+env/
+
+# Ignore Python's internal cache files
+__pycache__/
+*.pyc
+
+# Ignore environment variables (where you keep API keys)
+.env
+
+# Ignore FAISS local index files
+*.index
+*.pkl
