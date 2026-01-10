@@ -32,3 +32,4 @@ numexpr
 huggingface_hub
 langchain-google-genai
 streamlit
+langserve[all]
