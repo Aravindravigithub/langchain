@@ -30,5 +30,3 @@ unstructured
 pytube
 numexpr
 huggingface_hub
-langchain-google-genai
-streamlit
